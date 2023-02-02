@@ -30,6 +30,10 @@ Most of the literature will be related to the Reverse Engineering and Learning L
                            
                             
 In addition, feel free to suggest other books, repos, practices :)
+<div id="badges">
+  <a href="https://t.me/hkittyb2c">
+    <img src="https://img.shields.io/badge/Telegram-inactive?logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 
 
 <!--
