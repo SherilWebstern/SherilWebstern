@@ -24,7 +24,7 @@ Most of the literature will be related to the Reverse Engineering and Learning L
 |  &nbsp;| Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation 1st Edition|Bruce Dang, Alexandre Gazet, Elias Bachaalany, Sébastien Josse |   |<ul><li>- [ ] Waiting for me ₍ᐢ ›̥̥̥ ༝ ‹̥̥̥ ᐢ₎  </li> |
 | &nbsp; |Hacking: The Art of Exploitation, 2nd Edition| Jon Erickson| |<ul><li>- [ ] Waiting for me ₍ᐢ ›̥̥̥ ༝ ‹̥̥̥ ᐢ₎  </li> |
 |&nbsp; |Reversing: Secrets of Reverse Engineering 1st Edition | Eldad Eilam | |<ul><li>- [ ] ♱RIP♱ </li>|
-| &nbsp; |iOS App Reverse Engineering Kindle Edition  |Sinan Kaytaz | | <ul><li>- [ ] ♱RIP♱ </li>|
+| &nbsp; |iOS App Reverse Engineering   |Sinan Kaytaz | | <ul><li>- [ ] ♱RIP♱ </li>|
 |Assembly Language | Assembly Language Step by Step, Third Edition | Jeff Duntemann | | <ul><li>- [ ] Starting ₊‧°𐐪♡𐑂°‧₊  </li> |
   
                            
